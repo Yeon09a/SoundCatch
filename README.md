@@ -13,7 +13,7 @@
 ### 게임 플레이
 * 핸드트래킹을 통해 직접 손을 움직여 조작하는 게임 방식
   * 직접 손을 움직여 메뉴를 선택하고 게임을 플레이 할 수 있습니다.
-  <br/><img width="50%" src="https://github.com/user-attachments/assets/bb5be267-fe35-41ad-bcac-33259ce29eba"/><img width="50%" src="https://github.com/user-attachments/assets/f344823f-c49a-401d-8a8b-b91142275dcc"/><img width="50%" src="https://github.com/user-attachments/assets/19609e2b-1d00-4b63-a751-d0bc0cb302aa"/>
+  <br/><img width="30%" src="https://github.com/user-attachments/assets/bb5be267-fe35-41ad-bcac-33259ce29eba"/><img width="30%" src="https://github.com/user-attachments/assets/f344823f-c49a-401d-8a8b-b91142275dcc"/><img width="30%" src="https://github.com/user-attachments/assets/19609e2b-1d00-4b63-a751-d0bc0cb302aa"/>
   <br/><img width="50%" src="https://github.com/user-attachments/assets/7b6e397d-de21-48ee-9efb-05eeb0794972"/><img width="50%" src="https://github.com/user-attachments/assets/2d37a6f0-645a-4972-9648-61273c3dd9cd"/>
 * 세 가지의 게임
   *  숨은 소리 찾기, 음 맞추기, 손동작 외우기 게임을 각 세 가지의 난이도로 제공합니다.
