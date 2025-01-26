@@ -6,7 +6,7 @@
 * 본 프로젝트는 서울여자대학교 소프트웨어융합학과 졸업 프로젝트 결과물입니다.
 
 게임 플레이 영상
-https://www.youtube.com/watch?v=lwgDjd2JFuY
+<br/>https://www.youtube.com/watch?v=lwgDjd2JFuY
 
 ## 게임 소개
 'SoundCatch'는 별도 보조기기 및 프로그램을 사용하지 않아도 시각장애인이 비시각장애인과 가능한 동일한 플레이를 경험할 수 있는 게임입니다.<br>
