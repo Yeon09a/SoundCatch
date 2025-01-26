@@ -11,7 +11,7 @@ https://www.youtube.com/watch?v=lwgDjd2JFuY
 ## 게임 소개
 'SoundCatch'는 별도 보조기기 및 프로그램을 사용하지 않아도 시각장애인이 비시각장애인과 가능한 동일한 플레이를 경험할 수 있는 게임입니다.<br>
 핸드트래킹 기술과 오디오 중심 플레이를 제공하여 게임 자체 접근성을 향상하고, 시각장애인과 비시각장애인의 문화 격차 해소, 공감대 형성을 프로젝트 목적으로 하고 있습니다. <br/>
-### 게임 플레이
+### 게임 특징
 * 핸드트래킹을 통해 직접 손을 움직여 조작하는 게임 방식
   * 직접 손을 움직여 메뉴를 선택하고 게임을 플레이 할 수 있습니다.
   <br/><img width="30%" src="https://github.com/user-attachments/assets/bb5be267-fe35-41ad-bcac-33259ce29eba"/><img width="30%" src="https://github.com/user-attachments/assets/f344823f-c49a-401d-8a8b-b91142275dcc"/><img width="30%" src="https://github.com/user-attachments/assets/19609e2b-1d00-4b63-a751-d0bc0cb302aa"/>
@@ -23,6 +23,8 @@ https://www.youtube.com/watch?v=lwgDjd2JFuY
   * 청각을 통한 인터페이스는 물론, 색각이상자도 구별 가능한 컬러시스템을 사용하여 시각을 통한 인터페이스를 제공합니다.
   * 모든 메뉴를 음성으로 제공하고 있으며, 화면 이동 시 화면에 대한 묘사도 음성으로 제공합니다.
   <br/><img width="80%" src="https://github.com/user-attachments/assets/5e52731a-4dd5-4940-8680-629f90f7ad33"/>
+* 한국디지털접근성진흥원 방문 인터뷰 진행
+  * 프로토타입 단계에서 프로젝트 전반에 대한 피드백을 받기 위해 한국디지털접근성진흥원 방문 인터뷰 진행
 ## 프로젝트 개요
 ### 개발 기간
 * 2024.03 - 2024.12 (약 9개월)
