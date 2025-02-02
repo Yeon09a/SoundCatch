@@ -35,6 +35,7 @@
 * Teachable Machine
 ### 수행업무
 프로젝트 팀원은 3명으로 그 중 개발에 참여하여 다음과 같은 부분을 담당하였습니다.<br/>
+
 핸드트래킹 손 인식 및 손 동작 구별 모델 제작
 * Google Teachable Machine을 사용하여 세 가지 손 동작을 약 4000장 학습시켜 손 동작 구별 모델 제작
 * Python의 Mediapipe, OpenCV, CVZone 라이브러리를 사용하여 카메라를 통해 1초에 10번 손 위치 인식 제작
