@@ -16,6 +16,8 @@ public class UDPReceive : Singleton<UDPReceive>
 
     public RunPython runPython = new RunPython();
 
+    public static UDPReceive instance = null;
+
     private void Awake()
     {
         
