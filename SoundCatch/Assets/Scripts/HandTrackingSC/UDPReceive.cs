@@ -16,21 +16,9 @@ public class UDPReceive : Singleton<UDPReceive>
 
     public RunPython runPython = new RunPython();
 
-    public static UDPReceive instance = null;
-
     private void Awake()
     {
-        // ½Ì±ÛÅÏ
-        if (instance == null)
-        {
-            instance = this;
-        }
-        else if (instance != this)
-        {
-            Destroy(this.gameObject);
-        }
-
-        DontDestroyOnLoad(this.gameObject);
+        
     }
 
     // Start is called before the first frame update
@@ -77,7 +65,7 @@ public class UDPReceive : Singleton<UDPReceive>
 
     void Update()
     {
-        // ÀÓ½Ã ÇÚµåÆ®·¡Å· Á¾·á
+        // ìž„ì‹œ í•¸ë“œíŠ¸ëž˜í‚¹ ì¢…ë£Œ
         /*if (Input.GetKeyDown(KeyCode.X))
         {
             ExitHandTracking();
